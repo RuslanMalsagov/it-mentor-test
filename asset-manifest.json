@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/it-mentor-test/static/css/main.57078763.css",
+    "main.js": "/it-mentor-test/static/js/main.7225c09d.js",
+    "index.html": "/it-mentor-test/index.html",
+    "main.57078763.css.map": "/it-mentor-test/static/css/main.57078763.css.map",
+    "main.7225c09d.js.map": "/it-mentor-test/static/js/main.7225c09d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57078763.css",
+    "static/js/main.7225c09d.js"
+  ]
+}

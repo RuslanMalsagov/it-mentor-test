@@ -37,7 +37,7 @@ function App() {
 
   // Функция удаления элемента
   const handleButtonDelete = () => {
-    // toString используем потому что eval возвращает число
+    // toString используем потому что eval возвращает числоо
     // и если мы после какого то выражения захотим удалить символ с помощью slice, он выдаст ошибку
     const text = expression.toString().slice(0, -1);
     setExpression(text);
